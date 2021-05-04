@@ -1,6 +1,6 @@
 # Jackie.js
 
-This is just a simple controler/model mapper on top of [sequelize.js ORM](https://github.com/facebook/create-react-app).
+This is just a simple controler/model mapper on top of [sequelize.js ORM v6](http://sequelize.org/).
 
 ## Documentation
 
