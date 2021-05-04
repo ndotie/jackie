@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jackie.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is just a simple controler/model mapper on top of [sequelize.js ORM](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
