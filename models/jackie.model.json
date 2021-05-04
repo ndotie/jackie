@@ -1,0 +1,23 @@
+{
+    "jack" : "comments",
+    "id" : {
+        "autoIncrement" : true,
+        "allowNull" : false,
+        "type" : "Sequelize.INTEGER"
+    },
+    "firstName" : {
+        "type" : "Sequelize.STRING",
+        "allowNull" : "Sequelize.BOOLEAN"
+    },
+    "replieId" : {
+        "type" : "Sequelize.INTEGER"
+
+    },
+    "licardo" : {"type":"Sequelize.BOOLEAN"},
+    "attri" : {
+        "delete_name":["name","time","friend"],
+        "update_name":["name","friend"],
+        "get_name" :["time","friend","lastname"]
+    }
+   
+}
