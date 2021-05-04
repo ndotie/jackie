@@ -1,6 +1,6 @@
 # Jackie.js
 
-This is just a simple controler/model mapper on top of [sequelize.js ORM v6](http://sequelize.org/).
+This is just a simple model->controller->router file system creation automation on top of [sequelize.js ORM v6](http://sequelize.org/).
 
 ## Documentation
 
